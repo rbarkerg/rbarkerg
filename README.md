@@ -12,10 +12,37 @@
 #### Throughout my career I have been working in nine mobile projects, with diferentes languajes. In these projects it was used architectures such as RxMVVM, MVVM and MVP, consume web rest api, manage call api state (idle, loading, success, error) to show important infomation like spinner for loading, success or error message, local storage, security (encrypt values), extend class to add new functionality like dates and currencies formatters or customize components and uni test.
 
 
-#### <img align="center" src="https://user-images.githubusercontent.com/42281359/139138036-e960e6ab-67ed-4819-bbad-641bca42e6ba.png" width="30" height="30"> iOS - Swift & Objective-c
+<!-- #### <img align="center" src="https://user-images.githubusercontent.com/42281359/139138036-e960e6ab-67ed-4819-bbad-641bca42e6ba.png" width="30" height="30"> iOS - Swift & Objective-c
 
 #### <img align="center" src="https://user-images.githubusercontent.com/42281359/139137872-cc2209d5-40f1-42f0-a938-980c899210a3.png" width="30" height="30"> Android - Kotlin & Java
 
-#### <img align="center" src="https://user-images.githubusercontent.com/42281359/139137660-2ba17c8a-d7b6-4ca7-9e92-72c99a64d0a6.png" width="30" height="30"> hybrid - Flutter (Dart) & ReactNative (Js) 👈🏾 a little
+#### <img align="center" src="https://user-images.githubusercontent.com/42281359/139137660-2ba17c8a-d7b6-4ca7-9e92-72c99a64d0a6.png" width="30" height="30"> hybrid - Flutter (Dart) & ReactNative (Js) 👈🏾 a little -->
+
+## Skils
+
+### Languages:
+<img align="center" src="https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white" height="30" /> <img align="center" src="https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white" height="30" /> <img align="center" src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" height="30" /> <img align="center" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" height="30" /> <img align="center" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" height="30" /> <img align="center" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" height="30" /> <img align="center" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" height="30" /> <img align="center" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" height="30" /> <img align="center" src="https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white" height="30" />
+
+### IDE:
+<img align="center" src="https://img.shields.io/badge/Xcode-007ACC?style=flat-square&logo=Xcode&logoColor=white" height="30" /> <img  align="center" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" height="30"/> <img align="center" src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white" height="30"/>
+
+### Database: 
+<img align="center" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" height="30"/> <img align="center" src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" height="30"/> <img align="center" src="https://img.shields.io/badge/Realm-39477F?style=for-the-badge&logo=realm&logoColor=white" height="30"/>
+
+### Frameworks: 
+<img align="center" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" height="30"/> <img align="center" src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" height="30"/> <img align="center" src="https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black" height="30"/> <img align="center" src="https://img.shields.io/badge/gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white" height="30"/> <img align="center" src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" height="30"/>
+
+### Other:
+<img align="center" src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white" height="30"/> <img align="center" src="https://img.shields.io/badge/Google%20Analytics-E37400?style=for-the-badge&logo=google%20analytics&logoColor=white" height="30"/> <img align="center" src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" height="30"/> <img align="center" src="https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white" height="30"/> <img align="center" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" height="30"/> <img align="center" src="https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white" height="30"/> <img align="center" src="https://img.shields.io/badge/iTerm2-000000?style=for-the-badge&logo=iterm2&logoColor=white" height="30"/>
+
+
+
+
+
+
+
+
+
+
 
 
