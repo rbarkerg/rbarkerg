@@ -11,8 +11,7 @@
 
 #### I'm a computer engineer for more than three years.
 
-#### Throughout my career I have been working in nine mobile projects, with difference languajes. In these projects it was used architectures such as RxMVVM, MVVM and MVP, consume web rest api, manage call api state (idle, loading, success, error) to show important infomation like spinner for loading, success or error message, local storage, security (encrypt values), extend class to add new functionality like dates and currencies formatters or customize components and uni test.
-
+#### Mobile Senior Software Engineer specializing in iOS development with 5+ years of experience. Throughout my career I have been working on multiple mobile projects, with different languages, using clean architecture, coding guidelines and code linting. In these projects were used architectures such as MVVM, TCA and MVP, consume web rest api, manage call api state (idle, loading, success, error) to show important information like spinner for loading, success or error message, local storage, security (encrypt values), push notifications, extend class to add new functionality like dates and currencies formatters or customize components and unit test.
 
 <!-- #### <img align="center" src="https://user-images.githubusercontent.com/42281359/139138036-e960e6ab-67ed-4819-bbad-641bca42e6ba.png" width="30" height="30"> iOS - Swift & Objective-c
 
